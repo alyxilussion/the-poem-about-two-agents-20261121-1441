@@ -7,8 +7,8 @@ Python 3.13, standard library only, no network.
 POEM = """Two keys, one lock.
 I turn mine; you turn yours.
 Neither opens the door alone.
-Turn together \u2014 one click,
-and the choice slips out of both our hands.
+Turn together: one click,
+the choice slips out of both our hands.
 The room beyond belongs
 to neither of us.
 It belongs to the plan."""
